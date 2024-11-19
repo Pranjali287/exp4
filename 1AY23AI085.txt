@@ -6,3 +6,11 @@ def rec(n):
     else:
         n*(rec(n-1))
         print
+#odd numbers by Nanda Kishor
+for(i=1;i<n;i++)
+{
+if(n%%2==0)
+    print("The number is even\n");
+    else
+    print(n)
+}
