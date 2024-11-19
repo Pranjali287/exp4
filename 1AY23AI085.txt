@@ -14,3 +14,11 @@ if(n%%2==0)
     else
     print(n)
 }
+#typedef by maruthi prasad reddy
+#include<stdio.h>
+typedef long long 11;
+int main()
+    11 var = 20;
+    printf("%ld",var);
+    return 0;
+}
