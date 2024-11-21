@@ -22,3 +22,5 @@ int main()
     printf("%ld",var);
     return 0;
 }
+printf("hello dear all");
+scanf("%d",mam);
