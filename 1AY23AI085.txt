@@ -23,4 +23,5 @@ int main()
     return 0;
 }
 printf("hello dear all");
+hellooooooo
 scanf("%d",mam);
