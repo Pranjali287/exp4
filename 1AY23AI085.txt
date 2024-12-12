@@ -22,3 +22,4 @@ int main()
     printf("%ld",var);
     return 0;
 }
+Printf("i am the owner")
